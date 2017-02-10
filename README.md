@@ -20,7 +20,7 @@
 | ----------------------------------------------------------------------------- | -------------------------------- | ------------------------------------- | ---------------------------- |
 | [Amazon Japan](https://www.amazon.jobs/en/locations/tokyo-area-japan)         | Tokyo (Shinagawa-ku)             | Multiple sectors                      |                              |
 | [Barclays](http://joinus.barclays.com/japan/)                                 | Tokyo (Minato-ku)                | Finance                               |                              |
-| [Bizreach](http://www.bizreach.co.jp/recruit/)                                | Tokyo (Shibuya-ku)               | B2B Services, Technology R&D          |                              |
+| [Bizreach](http://www.bizreach.co.jp/recruit/)                                | Tokyo (Shibuya-ku)               | B2B Services, Technology R&D          | Yes                          |
 | [Cookpad](https://recruit.cookpad.com/)                                       | Tokyo (Shibuya-ku)               | Web, Mobile                           |                              |
 | [Crowdworks](https://crowdworks.co.jp/company#recruit)                        | Tokyo (Shibuya-ku)               | Crowdsourcing                         |                              |
 | [CyberAgent](https://www.cyberagent.co.jp/recruit/)                           | Tokyo                            | Ads, B2B Services                     |                              |
